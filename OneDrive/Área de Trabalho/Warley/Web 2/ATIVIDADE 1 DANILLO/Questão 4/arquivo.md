@@ -1,0 +1,1 @@
+Este é um [link de exemplo](https://www.example.com) em Markdown.
